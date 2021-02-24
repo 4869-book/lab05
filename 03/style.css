@@ -14,9 +14,13 @@
  .night {
      background-color: black;
  }
- .day span{
+ span{
     color: blue;
     
+ }
+
+ img {
+    width: 30%;
  }
  
  
