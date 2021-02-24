@@ -1,6 +1,5 @@
-.display {
-    width: 1000px;
-    margin: 0 auto;
-    position: relative; 
-    border: solid black;
+ul {
+    list-style-type: none;
+    padding: 0%;
 }
+
