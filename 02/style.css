@@ -3,3 +3,32 @@ ul {
     padding: 0%;
 }
 
+li img {
+    width: 10px;
+}
+.done{
+    text-decoration: line-through;
+    background-color: green;
+}
+
+.container{
+    width: 25%;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    background-color: yellow;;
+    border: solid;
+}
+.header {
+    text-align: center;
+}
+.show {
+    text-align: start;
+    background-color: violet;
+    text-overflow: ellipsis;
+}
+
+body {
+    background-image: linear-gradient(to right, orange , blue);
+}
+
